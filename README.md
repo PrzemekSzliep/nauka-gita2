@@ -1,1 +1,1 @@
-# nauka-gita2
+# nauka-gita2 - proba git pull
